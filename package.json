@@ -18,5 +18,8 @@
   "homepage": "https://github.com/SMKrizan/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^26.6.1"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
   }
 }
